@@ -11,7 +11,7 @@ HTTP log has the standard format of either the Apache WWW server (see http://www
 
 An example of an HTTP log record in the Apache format:
 
-````
+```
 192.168.12.6 - - [21/Mar/2019:14:22:34 +0300] "GET http://example.com/media/sidebar.jpg HTTP/1.1" 200 31378 +2
 192.168.12.6 - - [21/Mar/2019:14:22:34 +0300] "GET http://example.com/media/banner1.jpg HTTP/1.1" 200 28716 +3
 192.168.12.6 - - [21/Mar/2019:14:22:34 +0300] "GET http://example.com/media/banner2.jpg HTTP/1.1" 200 14080 +4
