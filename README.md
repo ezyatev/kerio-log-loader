@@ -3,7 +3,7 @@
 The script loads Kerio HTTP log into MariaDB/MySQL using multiprocessing library to do it efficiently.
 It can help you to save full business days in data loading and get immediate, valuable insight into your data.
 
-Requires Python 3.6+.
+Requires Python 3.7+ and pipenv.
 
 ## HTTP log example
 
